@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.999" height="23" viewBox="0 0 19.999 23">
+  <g id="Notification" transform="translate(-3.001)">
+    <g id="ic_Notification" transform="translate(3 2)">
+      <path id="Shape" d="M6.172,19H1a1,1,0,0,1-.893-1.451l1.67-3.309V9.222A7.232,7.232,0,0,1,6.022,2.643a3,3,0,0,1,5.958,0,7.233,7.233,0,0,1,4.243,6.579V14.24l1.67,3.309A1,1,0,0,1,17,19h-5.17a3,3,0,0,1-5.659,0ZM9,19ZM3.779,9.222v5.255a1,1,0,0,1-.107.451L2.626,17h12.75l-1.046-2.072a1,1,0,0,1-.107-.451V9.222a5.222,5.222,0,1,0-10.445,0Z" fill="#92929d"/>
+    </g>
+    <circle id="Notification-2" data-name="Notification" cx="4" cy="4" r="4" transform="translate(15)" fill="#fc5a5a"/>
+  </g>
+</svg>

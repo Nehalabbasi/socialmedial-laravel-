@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f03" stop-opacity="0.961"/>
+      <stop offset="1" stop-color="#dc003b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_98" data-name="Group 98" transform="translate(-341 -1305)">
+    <g id="Ellipse_24" data-name="Ellipse 24" transform="translate(341 1305)" stroke="#f0f2f5" stroke-width="1" fill="url(#linear-gradient)">
+      <circle cx="11" cy="11" r="11" stroke="none"/>
+      <circle cx="11" cy="11" r="10.5" fill="none"/>
+    </g>
+    <path id="Icon_awesome-heart" data-name="Icon awesome-heart" d="M9.931,2.906A2.938,2.938,0,0,0,5.923,3.2L5.5,3.634,5.076,3.2a2.938,2.938,0,0,0-4.009-.292A3.085,3.085,0,0,0,.854,7.372l4.157,4.292a.674.674,0,0,0,.973,0l4.157-4.292a3.083,3.083,0,0,0-.211-4.467Z" transform="translate(346.501 1309.49)" fill="#fff"/>
+  </g>
+</svg>
